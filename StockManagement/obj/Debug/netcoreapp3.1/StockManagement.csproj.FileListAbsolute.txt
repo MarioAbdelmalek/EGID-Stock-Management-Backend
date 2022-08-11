@@ -1,0 +1,146 @@
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework6.Npgsql.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.RazorTargetAssemblyInfo.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CopyComplete
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\staticwebassets\StockManagement.StaticWebAssets.Manifest.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\staticwebassets\StockManagement.StaticWebAssets.xml
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mario\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\EntityFramework6.Npgsql.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\BLL.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\DAL.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\BLL.pdb
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csprojAssemblyReference.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.RazorTargetAssemblyInfo.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CopyComplete
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\staticwebassets\StockManagement.StaticWebAssets.Manifest.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\staticwebassets\StockManagement.StaticWebAssets.xml
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache

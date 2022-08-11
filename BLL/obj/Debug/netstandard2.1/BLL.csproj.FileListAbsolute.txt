@@ -1,0 +1,24 @@
+C:\Users\mario\source\repos\StockManagement\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+C:\Users\mario\source\repos\StockManagement\BLL\bin\Debug\netstandard2.1\BLL.dll
+C:\Users\mario\source\repos\StockManagement\BLL\bin\Debug\netstandard2.1\BLL.pdb
+C:\Users\mario\source\repos\StockManagement\BLL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mario\source\repos\StockManagement\BLL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.dll
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.pdb
+C:\Users\mario\source\repos\StockManagement\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+F:\Stock Management\stock-management-backend\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+F:\Stock Management\stock-management-backend\BLL\bin\Debug\netstandard2.1\BLL.dll
+F:\Stock Management\stock-management-backend\BLL\bin\Debug\netstandard2.1\BLL.pdb
+F:\Stock Management\stock-management-backend\BLL\bin\Debug\netstandard2.1\DAL.dll
+F:\Stock Management\stock-management-backend\BLL\bin\Debug\netstandard2.1\DAL.pdb
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.csprojAssemblyReference.cache
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.dll
+F:\Stock Management\stock-management-backend\BLL\obj\Debug\netstandard2.1\BLL.pdb
