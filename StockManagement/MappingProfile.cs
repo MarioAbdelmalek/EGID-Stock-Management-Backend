@@ -26,6 +26,9 @@ namespace StockManagement
 
             CreateMap<CreateOrder, CreateOrderDto>();
             CreateMap<CreateOrderDto, CreateOrder>();
+
+            CreateMap<User, UserDto>();
+            CreateMap<UserDto, User>();
         }
     }
 }

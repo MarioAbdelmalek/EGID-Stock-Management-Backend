@@ -16,7 +16,7 @@ namespace DAL
         public DbSet<Stock> Stocks { get; set; }
         public DbSet<Person> Clients { get; set; }
         public DbSet<Broker> Brokers { get; set; }
-
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -57,6 +57,12 @@ namespace DAL
                new Broker { ID = 3, Name = "Youssef" },
                new Broker { ID = 4, Name = "Nadim" },
                new Broker { ID = 5, Name = "Begad" }
+            );
+
+            modelBuilder.Entity<User>().HasData(
+               new User { ID = 1, Username = "MarioAbdelmalek", Password = "Abdelmalek_2000" },
+               new User { ID = 2, Username = "FadySamy", Password = "Fady_1999" },
+               new User { ID = 3, Username = "AliHatem", Password = "Ali_2000" }
             );
 
         }

@@ -4,10 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using BLL;
 using BLL.ModelsDto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace StockManagement.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class StockController : ControllerBase

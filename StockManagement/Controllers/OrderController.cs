@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 using BLL;
 using BLL.ModelsDto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace StockManagement.Controllers
 {
+    [Authorize]
     [Route("[controller]")]
     [ApiController]
     public class OrderController : ControllerBase

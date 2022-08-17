@@ -9,6 +9,9 @@ using Microsoft.Extensions.Hosting;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using StockManagement.HubConfig;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace StockManagement
 {
@@ -24,6 +27,27 @@ namespace StockManagement
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var key = (Configuration.GetSection("AppSettings:Token").Value);
+
+            services.AddAuthentication(x =>
+            {
+                x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(x =>
+            {
+                x.RequireHttpsMetadata = false;
+                x.SaveToken = true;
+                x.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(key)),
+                    ValidateIssuer = false,
+                    ValidateAudience = false
+                };
+            });
+
+            services.AddScoped<IJwtAuthenticationManager, JwtAuthenticationManager>();
+
             services.AddControllers().AddJsonOptions(opts => opts.JsonSerializerOptions.PropertyNamingPolicy = null);
 
             services.AddControllers();
@@ -43,6 +67,7 @@ namespace StockManagement
 
             IMapper mapper = mapperConfig.CreateMapper();
             services.AddSingleton(mapper);
+
             services.AddMvc();
 
             var sqlConnectionString = Configuration.GetConnectionString("PostgreSqlConnectionString");
@@ -51,6 +76,9 @@ namespace StockManagement
 
             services.AddScoped<IStockService, StockService>();
             services.AddScoped<IStockRepository, StockRepository>();
+
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserService, UserService>();
 
             services.AddHostedService<TimerService>();
 
@@ -75,6 +103,7 @@ namespace StockManagement
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseSwagger();

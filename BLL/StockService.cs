@@ -112,11 +112,14 @@ namespace BLL
         {
             var mappedUpdatedOrderList = stockRepository.GetUpdatedOrders(dateTime);
 
-            foreach(Order o in mappedUpdatedOrderList)
+            if (mappedUpdatedOrderList != null)
             {
-                if(o.LastUpdateTime > dateTime)
+                foreach (Order o in mappedUpdatedOrderList)
                 {
-                    dateTime = o.LastUpdateTime;
+                    if (o.LastUpdateTime > dateTime)
+                    {
+                        dateTime = o.LastUpdateTime;
+                    }
                 }
             }
             return mapper.Map<List<OrderDto>>(mappedUpdatedOrderList);

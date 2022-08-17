@@ -134,9 +134,6 @@ F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreap
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csprojAssemblyReference.cache
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
-F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
-F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cs
-F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cache
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.RazorTargetAssemblyInfo.cache
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CopyComplete
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\staticwebassets\StockManagement.StaticWebAssets.Manifest.cache
@@ -144,3 +141,13 @@ F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreap
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
 F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Stock Management\stock-management-backend\StockManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\Stock Management\stock-management-backend\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.MvcApplicationPartsAssemblyInfo.cache
